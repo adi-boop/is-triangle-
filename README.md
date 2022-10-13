@@ -1,1 +1,2 @@
-# A website which helps you to learn about triangles.
+# isTriangle?
+A website which helps you to learn about triangles.
