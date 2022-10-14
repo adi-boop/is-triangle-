@@ -99,14 +99,25 @@ input {
 /********* Quiz **********/
 
 form {
-    text-align: center;
+    text-align: left;
     max-width: 620px;
     margin: auto;
     padding: 2rem;
     color: black;
 }
 
+form div {
+    margin-top: 3rem;
+}
+
 form label {
     text-align: left;
     color: black;
+}
+
+#qoutput {
+    margin-bottom: 10rem;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
 }
